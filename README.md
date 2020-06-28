@@ -1,6 +1,6 @@
-# flutter_modular_starter_template
+# Flutter Modular Starter Template
 
-A new Flutter project.
+A new Flutter project with best choosed library.
 
 ## Getting Started
 
